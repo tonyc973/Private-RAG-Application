@@ -11,14 +11,6 @@ Built using:
 
 ---
 
-##  Demo
-
-<p align="center">
-  <img src="screenshots/demo-1.png" width="700"/>
-  <br/>
-  <i>Ask questions about any PDF, with local AI.</i>
-</p>
-
 ---
 
 ##  Features
