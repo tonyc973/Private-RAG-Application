@@ -11,8 +11,6 @@ Built using:
 
 ---
 
----
-
 ##  Features
 
 ✅ 100% Local — no internet or API keys required  
