@@ -36,7 +36,7 @@ if uploaded_file:
         retriever = vectorstore.as_retriever()
 
         llm = LlamaCpp(
-            model_path="/home/george/llama_models/llama.cpp/mistral-7b-instruct-v0.1.Q4_K_M.gguf",
+            model_path="../mistral-7b-instruct-v0.1.Q4_K_M.gguf",
             temperature=0.3,
             max_tokens=512,
             n_ctx=10000,
